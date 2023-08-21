@@ -1,4 +1,4 @@
-### Assalomu alaykum va rohmatullohi va barokatuh ✨🕊
+## Assalomu alaykum va rohmatullohi va barokatuh ✨🕊
 #### My name is Gulxumor 
 <br/>
 
