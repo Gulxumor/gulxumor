@@ -1,5 +1,6 @@
 ## Assalomu alaykum va rohmatullohi va barokatuh ✨🕊
 #### My name is Gulxumor 
+##### These are some informations about me
 <br/>
 
 # 💻 Tech Stack:
