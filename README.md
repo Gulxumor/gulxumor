@@ -1,10 +1,10 @@
 ## Assalomu alaykum va rohmatullohi va barokatuh ✨🕊
 #### My name is Gulxumor 
-##### These are some informations about me
+#### These are some informations about me
 <br/>
 
 # 💻 Tech Stack:
-# 💫 About Me:
+# 🕊 About Me:
 🌱 I’m currently learning Mantine UI and Material UI<br>💬 Ask me about everything you want
 
 
