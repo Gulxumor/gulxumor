@@ -3,6 +3,8 @@
 #### These are some informations about me
 <br/>
 
+[![](https://visitcount.itsvg.in/api?id=gulxumor&icon=0&color=0)](https://visitcount.itsvg.in) 
+<br/>
 # 🕊 About Me:
 🌱 I’m currently learning Mantine UI and Material UI<br>💬 Ask me about everything you want
 
@@ -17,4 +19,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gulxumor&theme=calm&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=gulxumor&icon=0&color=0)](https://visitcount.itsvg.in)
