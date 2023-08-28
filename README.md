@@ -1,8 +1,8 @@
 [![](https://visitcount.itsvg.in/api?id=gulxumor&icon=0&color=0)](https://visitcount.itsvg.in)
-[![](https://img.shields.io/github/followers/gulxumor)]
+[](https://img.shields.io/github/followers/gulxumor)
 
 <br/>
-# 🕊 About Me:
+# 🕊 About Me: <br>
   ### Assalomu alaykum va rohmatullohi va barokatuh ✨🕊 <br>
    My name is Gulxumor <br>
    These are some informations about me <br>
