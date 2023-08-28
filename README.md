@@ -1,12 +1,12 @@
-[![](https://visitcount.itsvg.in/api?id=gulxumor&icon=0&color=0)](https://visitcount.itsvg.in)
-[](https://img.shields.io/github/followers/gulxumor)
-
 <br/>
 # 🕊 About Me: <br>
   ### Assalomu alaykum va rohmatullohi va barokatuh ✨🕊 <br>
    My name is Gulxumor <br>
    These are some informations about me <br>
 🌱 I’m currently learning Mantine UI and Material UI<br>💬 Ask me about everything you want
+
+[![](https://img.shields.io/github/followers/gulxumor)]
+[![](https://visitcount.itsvg.in/api?id=gulxumor&label=Profile%20Views&color=0&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
 # 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-%231877F5.svg?logo=Telegram&logoColor=white)](https://t.me/ErkinjonovaGulxumor)[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@gulxumor) [![Teletype](https://img.shields.io/badge/Teletype-%23563D7C.svg?logo=Teletype&logoColor=white)](https://teletype.in/@gulxumor)
