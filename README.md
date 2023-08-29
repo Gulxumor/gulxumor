@@ -3,7 +3,6 @@
 
 # 🕊 About Me:
 ### Assalomu alaykum va rohmatullohi va barokatuh ✨🕊
-<br>
 My name is Gulxumor <br> 
 These are some informations about me <br> 
 🌱 I’m currently learning Mantine UI and Material UI<br>
