@@ -2,10 +2,9 @@
 [![](https://visitcount.itsvg.in/api?id=gulxumor&label=Profile%20Views&color=0&icon=2&pretty=false)](https://visitcount.itsvg.in) 
 
 # 🕊 About Me:
-### Assalomu alaykum va rohmatullohi va barokatuh ✨🕊
-My name is Gulxumor <br> 
-These are some informations about me <br> 
-🌱 I’m currently learning Mantine UI and Material UI<br>
+### Assalomu alaykum va rohmatullohi va barokatuh ✨
+🕊 My name is Gulxumor <br> 
+🌱 I’m currently learning  and Material UI<br>
 💬 Ask me about everything you want 
 
 # 🌐 Socials: 
