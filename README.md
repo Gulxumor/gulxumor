@@ -5,7 +5,7 @@
 🕊 My name is Gulxumor <br> 
 🌱 I’m currently learning Material UI<br>
 💬 Ask me about everything you want <br> 
-[![Teacher]()](https://t.me/aad_05), I can't be online till next week
+[![Dear teacher]()](https://t.me/aad_05), I can't be online till next week. I have some works to do ...(
 
 # 🌐 Socials: 
 [![Telegram](https://img.shields.io/badge/Telegram-%231877F5.svg?logo=Telegram&logoColor=white)](https://t.me/ErkinjonovaGulxumor)[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@gulxumor) [![Teletype](https://img.shields.io/badge/Teletype-%232C8EBB.svg?logo=Teletype&logoColor=white)](https://teletype.in/@gulxumor) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/erkinjonovagulxumor/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100092847492429) 
