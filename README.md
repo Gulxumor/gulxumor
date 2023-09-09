@@ -3,4 +3,4 @@
 
 ### Assalomu alaykum va rohmatullohi va barokatuh 
 🌱 [![Dear teacher]()](https://t.me/aad_05), I can't be online till next week. I have some works to do ...(
-
+Sorry for missing classes
