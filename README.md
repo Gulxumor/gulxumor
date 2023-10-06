@@ -1,5 +1,5 @@
 
 
 ### Assalomu alaykum va rohmatullohi va barokatuh ✨️
-#### My name is Gulxumor. 
+#### I'm Gulxumor Erkinjonova. 
 #### For some reasons I won't be online for a few days
